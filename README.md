@@ -22,7 +22,7 @@
 
 ```bash
 git clone https://github.com/WoYun520/xhs-skill-viral-topic-scan.git
-cd viral-topic-scan
+cd xhs-skill-viral-topic-scan
 ```
 
 （仓库地址以 GitHub 实际名为准。）

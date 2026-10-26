@@ -1,4 +1,4 @@
-# viral-topic-scan
+# xhs-skill-viral-topic-scan
 
 开源 Agent Skill：从公开社交与网页搜索抓取**高互动爆款选题**，去重写入本地《素材库.md》，并留下扫描日志。
 
@@ -21,7 +21,7 @@
 3. 在同一工作目录下跑；产物是 `账号定位.md`、`素材库.md`、`scans/`
 
 ```bash
-git clone https://github.com/WoYun520/viral-topic-scan.git
+git clone https://github.com/WoYun520/xhs-skill-viral-topic-scan.git
 cd viral-topic-scan
 ```
 
@@ -29,7 +29,7 @@ cd viral-topic-scan
 
 ## 启动话术
 
-> 按 viral-topic-scan Skill 跑一轮：先确认或写入账号定位，建好／读取《素材库.md》，搜索并去重后把新选题写入待用区，并在 scans/ 留下本轮日志。只收集，不互动、不发帖。
+> 按 xhs-skill-viral-topic-scan Skill 跑一轮：先确认或写入账号定位，建好／读取《素材库.md》，搜索并去重后把新选题写入待用区，并在 scans/ 留下本轮日志。只收集，不互动、不发帖。
 
 ## 目录
 
